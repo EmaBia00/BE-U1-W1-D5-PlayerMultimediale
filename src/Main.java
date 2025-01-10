@@ -1,6 +1,7 @@
 import multimedia.ElementoMultimediale;
 import multimedia.Immagine;
 import multimedia.Audio;
+import multimedia.Video;
 import multimedia.Riproducibile;
 
 import java.util.Scanner;
